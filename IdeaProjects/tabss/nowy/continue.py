@@ -11,6 +11,7 @@
 # # # # # #     print(i, i**2, i**3)
 # # # # # #     i+=1
 # # print('x'*10)
+
 # # # # # # minNumber = 0
 # # # # # # maxNumber = 16
 # # # # # # i = minNumber
@@ -23,7 +24,9 @@
 # # # # # # while i <= maxHafts:
 # # # # # #     print("x"*i)
 # # # # # #     i+=1
+
 # # print('x'*10)
+
 # # # # # numbers = [8, 18, 2, 4, 16, 5, 25, 4, 22, 3, 3, 5, 3, 9, 81, 11]
 # # # # # i =0
 # # # # # number = len(numbers)-2
@@ -33,9 +36,9 @@
 # # # # #     if numbers[i]**2 == numbers[i+1] and numbers[i+1]**2 ==numbers[i+2]:
 # # # # #         print("\tFOUND")
 # # # # #     i+=1
-#
+
 # # print('x'*10)
-#
+
 # # # # texts = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
 # # # # i=0
 # # # # wordsInText = len(texts)-1
@@ -51,7 +54,9 @@
 # # # #     print(number + previousNumber)
 # # # #     previousNumber = number
 # # # #     number += 1
+
 # # print('x'*10)
+
 # # # import random
 # # # my_number = random.randint(0,20)
 # # # trails = 0
@@ -76,7 +81,9 @@
 # # #     print(number + previus_number)
 # # #     previus_number=number
 # # #     number+=1
+
 # # print('x'*10)
+
 # # text = ''
 # # number = 10
 # # condition = True
@@ -100,9 +107,9 @@
 # #         print(elements[1].upper())
 # #     else:
 # #         print(elements[1])
-#
+
 # # print('x'*10)
-#
+
 # # string_A = '+---+---+---+---+'
 # # string_B = '|   |   |   |   |'
 # #
@@ -115,9 +122,9 @@
 # #     print("o"*s)
 # #     print("x"*s)
 # #     s+=1
-#
+
 # # print('x'*10)
-#
+
 # # text = 'Mechanical advantage is a measure of the force amplification achieved by using a tool, mechanical device or machine system. The device preserves the input power and simply trades off forces against movement to obtain a desired amplification in the output force. The model for this is the law of the lever. Machine components designed to manage forces and movement in this way are called mechanisms.[1] An ideal mechanism transmits power without adding to or subtracting from it. This means the ideal mechanism does not include a power source, is frictionless, and is constructed from rigid bodies that do not deflect or wear. The performance of a real system relative to this ideal.'
 # # newText = ' '
 # # words = text.split()
@@ -128,8 +135,9 @@
 # #     if counter > 20:
 # #         print(newText)
 # #         break
+
 # # print('x'*20)
-#
+
 # # definitions = [
 # #     'Mechanical advantage is a measure of the force amplification achieved by using a tool, mechanical device or machine system. The device preserves the input power and simply trades off forces against movement to obtain a desired amplification in the output force. The model for this is the law of the lever. Machine components designed to manage forces and movement in this way are called mechanisms.[1] An ideal mechanism transmits power without adding to or subtracting from it. This means the ideal mechanism does not include a power source, is frictionless, and is constructed from rigid bodies that do not deflect or wear. The performance of a real system relative to this ideal.',
 # #     'Ein Kraftwandler ist eine mechanische Anordnung zur Veränderung einer Kraft in Bezug auf ihren Angriffspunkt, ihre Richtung oder ihren Betrag. Die einfachsten Kraftwandler sind Seile, Stangen, Rollen, schiefe Ebenen und Hebel. Dies sind gleichzeitig die grundlegenden einfachen Maschinen.',
@@ -147,7 +155,9 @@
 # #         if counter > 20:
 # #             print(newText)
 # #             break
-# # # print('x'*20)
+
+# print('x'*20)
+
 # menu = '''
 # Choose what you want me to do for you:
 # 1 - COFFEE
@@ -207,8 +217,9 @@
 #     else:
 #         print("You need to make a valid choice.")
 #         continue
-#
+
 # print('x'*10)
+
 # initialCapital = 20000
 # percent = 0.03
 # maxTimeYears = 10
@@ -220,8 +231,9 @@
 #     print("year ", years,"\t", capital)
 # else:
 #     print("the total revenue is", capital - initialCapital)
-#
+
 # print("x"*10)
+
 # number= 20730906
 # newNumber = number
 # sumofDigits = 0
